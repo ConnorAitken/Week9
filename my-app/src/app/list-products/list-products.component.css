@@ -1,0 +1,15 @@
+html, body {
+    display: flex;
+    justify-content: center;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 15px;
+    padding: 70px;
+}
+
+span {
+    background-color: #0004ff;
+
+}
+span:hover {
+    opacity: 0.8;
+}
